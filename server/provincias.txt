@@ -1,0 +1,22 @@
+Buenos Aires, 25°C
+Córdoba, 28°C
+Santa Fe, 26°C
+Mendoza, 30°C
+Tucumán, 32°C
+Entre Ríos, 25°C
+Salta, 31°C
+Chaco, 27°C
+Formosa, 29°C
+San Juan, 29°C
+Jujuy, 30°C
+Río Negro, 23°C
+Neuquén, 27°C
+Chubut, 20°C
+San Luis, 26°C
+La Pampa, 25°C
+La Rioja, 31°C
+Catamarca, 33°C
+Santa Cruz, 18°C
+Tierra del Fuego, 10°C
+Corrientes, 28°C
+

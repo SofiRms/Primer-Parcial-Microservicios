@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  node:
+      image: node_sofi
+      deploy:
+        replicas: 9
+      volumes:
+        - ./server:/servidor
+      ports:
+        - "3005:3007"
