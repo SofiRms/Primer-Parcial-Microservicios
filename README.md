@@ -11,7 +11,6 @@ A continuación, se detalla el paso a paso para ejecutar el servidor:
 ```bash
 cd server
 
-cd server
 ```
 ```sh
 npm i
